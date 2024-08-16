@@ -1,6 +1,6 @@
 # curency_converter
 
-A new Flutter project.
+This is my first Application that I developed using the Flutter framework.
 
 ## Getting Started
 
